@@ -1,42 +1,49 @@
-# Hi there, I'm Akshith Abi! 👋
+<div align="center">
 
-🎓 **B.Tech Artificial Intelligence & Data Science** Student at **Sri Eshwar College of Engineering**  
-💻 Passionate about **Software Architecture, System Design, and Scalable Full-Stack Solutions**
+<!-- Animated Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=A953FF&center=true&vcenter=true&width=500&lines=Akshith+Abi+!;AI+%26+Data+Science+Dev;Full+Stack+%26+System+Architect" alt="Typing SVG" />
+</a>
 
----
-
-### 🚀 Focus Areas
-- 🤖 **AI & Data Science:** Building intelligent models & data-driven insights
-- 🏗️ **Backend & Architecture:** Designing RESTful APIs and clean DB schemas
-- 💻 **Problem Solving:** Actively solving DSA problems on LeetCode
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🧮 Developer Metrics
 
-**Languages:**
-`Python` `Java` `C++` `SQL` `JavaScript`
+<!-- Snake / Pacman Contribution Graph Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshithabi-3112/Akshithabi-3112/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshithabi-3112/Akshithabi-3112/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Akshithabi-3112/Akshithabi-3112/output/github-contribution-grid-snake.svg">
+</picture>
 
-**Data Science & AI:**
-`Pandas` `NumPy` `Scikit-Learn` `TensorFlow`
+---
 
-**Web & Databases:**
-`HTML5` `CSS3` `Node.js` `Express` `MySQL` `MongoDB`
+### 🛠️ Toolbox
 
-**Tools & Platforms:**
-`Git` `GitHub` `Docker` `VS Code` `Postman`
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="50" height="50"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="50" height="50"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
+</p>
 
+---
+
+### 🚀 Projects Highlight
+
+* **WorkSphere AI** — Multi-Agent Digital Twin Workspace  
+* **OnDuty Tracker** — Automated Student OD Management System[cite: 1]
+
+---
 
 ### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/akshith-abi-p-415a75333/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/akshithabi/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://github.com/Akshithabi-3112" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/akshith-abi-p-415a75333/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/akshithabi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
