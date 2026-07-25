@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there, I'm Akshith Abi! 👋
 
-<!--
-**Akshithabi-3112/Akshithabi-3112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Artificial Intelligence & Data Science** Student at **Sri Eshwar College of Engineering**  
+💻 Passionate about **Software Architecture, System Design, and Scalable Full-Stack Solutions**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Focus Areas
+- 🤖 **AI & Data Science:** Building intelligent models & data-driven insights
+- 🏗️ **Backend & Architecture:** Designing RESTful APIs and clean DB schemas
+- 💻 **Problem Solving:** Actively solving DSA problems on LeetCode
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages:**
+`Python` `Java` `C++` `SQL` `JavaScript`
+
+**Data Science & AI:**
+`Pandas` `NumPy` `Scikit-Learn` `TensorFlow`
+
+**Web & Databases:**
+`HTML5` `CSS3` `Node.js` `Express` `MySQL` `MongoDB`
+
+**Tools & Platforms:**
+`Git` `GitHub` `Docker` `VS Code` `Postman`
+
+---
+
+### 📊 GitHub & Problem Solving Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshithabi-3112&show_icons=true&theme=dark" alt="Akshith's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshithabi-3112&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/akshith-abi-p-415a75333/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/akshithabi/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/Akshithabi-3112" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
