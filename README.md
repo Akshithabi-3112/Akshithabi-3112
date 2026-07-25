@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=A953FF&center=true&vcenter=true&width=500&lines=" Hi +!;Akshith+Abi+!;AI+%26+Data+Science;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=A953FF&center=true&vcenter=true&width=600&height=100&lines=Akshithhhh!;Full-Stack+Developer" alt="Typing SVG" />
 </a>
 
 </div>
@@ -11,7 +11,7 @@
 
 ### 🧮 Developer Metrics
 
-<!-- Snake / Pacman Contribution Graph Animation -->
+<!-- Pacman Contribution Graph Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshithabi-3112/Akshithabi-3112/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshithabi-3112/Akshithabi-3112/output/github-contribution-grid-snake.svg">
@@ -36,10 +36,10 @@
 
 ---
 
-### 🚀 Projects Highlight
+### 🚀 Featured Projects
 
 * **WorkSphere AI** — Multi-Agent Digital Twin Workspace  
-* **OnDuty Tracker** — Automated Student OD Management System[cite: 1]
+* **OnDuty Tracker** — Student & Faculty OD Management Portal[cite: 1]
 
 ---
 
