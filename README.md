@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=A953FF&center=true&vcenter=true&width=600&height=100&lines=Akshithhhh!;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=A953FF&center=true&vcenter=true&width=600&height=100&lines=Akshithhhh!;UI%2FUX+Designer" alt="Typing SVG" />
 </a>
 
 </div>
@@ -29,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="50" height="50"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/%2II/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
 </p>
@@ -39,7 +39,7 @@
 ### 🚀 Featured Projects
 
 * **WorkSphere AI** — Multi-Agent Digital Twin Workspace  
-* **OnDuty Tracker** — Student & Faculty OD Management Portal[cite: 1]
+* **OnDuty Tracker** — Student & Faculty OD Management Portal
 
 ---
 
