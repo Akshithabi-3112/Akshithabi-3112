@@ -1,12 +1,181 @@
-<div align="center"> <!-- Animated Header --> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=A953FF&center=true&vcenter=true&width=600&height=100&lines=Akshithhhh!;UI%2FUX+Designer" alt="Typing SVG" /> </a> </div> --- ### 🧮 Developer Metrics <!-- Pacman Contribution Graph Animation --> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshithabi-3112/Akshithabi-3112/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshithabi-3112/Akshithabi-3112/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Akshithabi-3112/Akshithabi-3112/output/github-contribution-grid-snake.svg"> </picture> --- ### 🛠️ Toolbox <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="50" height="50"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="50" height="50"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/%2II/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/> </p> --- ### 🚀 Featured Projects * **WorkSphere AI** — Multi-Agent Digital Twin Workspace * **OnDuty Tracker** — Student & Faculty OD Management Portal --- ### 🌐 Connect with Me <a href="https://www.linkedin.com/in/akshith-abi-p-415a75333/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://leetcode.com/u/akshithabi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<div align="center">
 
-## 🎮 Pac-Man Contribution Graph
+# Hi, I'm Akshith 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Akshithabi-3112/Akshithabi-3112/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Akshithabi-3112/Akshithabi-3112/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph"
-       src="https://raw.githubusercontent.com/Akshithabi-3112/Akshithabi-3112/output/pacman-contribution-graph.svg">
-</picture>
+### AI & Data Science Student | Developer | Problem Solver
+
+<p>
+  <a href="https://www.linkedin.com/in/akshith-abi-p-415a75333/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/akshithabi/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Currently pursuing **B.Tech in Artificial Intelligence & Data Science**
+- 🤖 Interested in **Artificial Intelligence, Machine Learning & Data Science**
+- 💻 Building projects with **Python, Java, React and Flask**
+- 📊 Interested in **Data Analytics, Predictive Modeling and Intelligent Systems**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🚀 Always learning and building new projects
+
+---
+
+## 📊 Developer Metrics
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Akshithabi-3112/Akshithabi-3112/output/pacman-contribution-graph-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Akshithabi-3112/Akshithabi-3112/output/pacman-contribution-graph.svg">
+    <img
+      src="https://raw.githubusercontent.com/Akshithabi-3112/Akshithabi-3112/output/pacman-contribution-graph.svg"
+      alt="Pac-Man contribution graph"
+      width="900">
+  </picture>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55" alt="Python">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" height="55" alt="Java">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript">
+</p>
+
+### AI / Data Science
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" alt="Scikit-learn">
+</p>
+
+### Web & Development Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55" alt="React">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="55" height="55" alt="Flask">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" height="55" alt="Git">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55" height="55" alt="Docker">
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 WorkSphere AI
+**Multi-Agent Digital Twin Workspace**
+
+An intelligent workspace concept designed around AI-powered multi-agent interaction and digital twin capabilities.
+
+**Focus:** Artificial Intelligence • Multi-Agent Systems • Intelligent Automation
+
+---
+
+### 📋 OnDuty Tracker
+**Student & Faculty OD Management Portal**
+
+A digital platform designed to simplify On-Duty management for students and faculty.
+
+**Focus:** Web Development • Database Management • Automation
+
+---
+
+### 🍎 FoodGuard AI
+**Food Spoilage Risk Prediction & Storage Pattern Clustering**
+
+A machine learning project focused on predicting food spoilage risk and discovering storage patterns using data-driven techniques.
+
+**Focus:** Machine Learning • Data Analysis • Clustering • Predictive Modeling
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Akshithabi-3112&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshithabi-3112&layout=compact&theme=tokyonight&hide_border=true" height="170">
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Akshithabi-3112&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🧠 Problem Solving
+
+<div align="center">
+
+<a href="https://leetcode.com/u/akshithabi/">
+  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/akshith-abi-p-415a75333/">
+  <img src="https://img.shields.io/badge/LinkedIn-Akshith%20Abi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+&nbsp;
+
+<a href="https://leetcode.com/u/akshithabi/">
+  <img src="https://img.shields.io/badge/LeetCode-Akshithabi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Build. Learn. Improve. Repeat."
+
+<img src="https://komarev.com/ghpvc/?username=Akshithabi-3112&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
