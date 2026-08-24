@@ -24,11 +24,11 @@
 - 💻 Building projects with **Python, Java, React and Flask**
 - 📊 Interested in **Data Analytics, Predictive Modeling and Intelligent Systems**
 - 🧠 Practicing **Data Structures & Algorithms**
-- 🚀 Always learning and building new projects
+- 🚀 Always learning, building and improving
 
 ---
 
-## 📊 Developer Metrics
+## 🎮 Contribution Journey
 
 <p align="center">
   <picture>
@@ -49,7 +49,7 @@
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Languages
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55" alt="Python">
@@ -61,7 +61,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript">
 </p>
 
-### AI / Data Science
+### 🤖 AI & Data Science
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy">
@@ -71,7 +71,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" alt="Scikit-learn">
 </p>
 
-### Web & Development Tools
+### 🌐 Web & Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55" alt="React">
@@ -94,15 +94,17 @@
 ## 🚀 Featured Projects
 
 ### 🤖 WorkSphere AI
+
 **Multi-Agent Digital Twin Workspace**
 
-An intelligent workspace concept designed around AI-powered multi-agent interaction and digital twin capabilities.
+An intelligent workspace concept focused on AI-powered multi-agent interaction and digital twin capabilities.
 
 **Focus:** Artificial Intelligence • Multi-Agent Systems • Intelligent Automation
 
 ---
 
 ### 📋 OnDuty Tracker
+
 **Student & Faculty OD Management Portal**
 
 A digital platform designed to simplify On-Duty management for students and faculty.
@@ -112,31 +114,12 @@ A digital platform designed to simplify On-Duty management for students and facu
 ---
 
 ### 🍎 FoodGuard AI
+
 **Food Spoilage Risk Prediction & Storage Pattern Clustering**
 
 A machine learning project focused on predicting food spoilage risk and discovering storage patterns using data-driven techniques.
 
 **Focus:** Machine Learning • Data Analysis • Clustering • Predictive Modeling
-
----
-
-## 📊 Developer Metrics
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshithabi-3112&theme=tokyo-night&hide_border=true" width="95%">
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Akshithabi-3112&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
@@ -152,6 +135,20 @@ A machine learning project focused on predicting food spoilage risk and discover
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Akshithabi-3112&theme=tokyo-night&hide_border=true"
+  width="95%"
+  alt="GitHub Activity Graph"
+/>
+
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -160,7 +157,7 @@ A machine learning project focused on predicting food spoilage risk and discover
   <img src="https://img.shields.io/badge/LinkedIn-Akshith%20Abi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/akshithabi/">
   <img src="https://img.shields.io/badge/LeetCode-Akshithabi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
@@ -172,8 +169,11 @@ A machine learning project focused on predicting food spoilage risk and discover
 
 <div align="center">
 
-### 💡 "Build. Learn. Improve. Repeat."
+### 💡 Build. Learn. Improve. Repeat.
 
-<img src="https://komarev.com/ghpvc/?username=Akshithabi-3112&label=Profile%20Views&color=0e75b6&style=flat" />
+<img
+  src="https://komarev.com/ghpvc/?username=Akshithabi-3112&label=Profile%20Views&color=0e75b6&style=flat"
+  alt="Profile Views"
+/>
 
 </div>
